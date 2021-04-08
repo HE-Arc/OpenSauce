@@ -11,7 +11,7 @@ channels==2.1.7
 channels-redis==2.3.3
 constantly==15.1.0
 daphne==2.2.5
-Django==2.2.13
+Django==2.2.20
 django-bootstrap4==0.0.7
 hiredis==1.0.0
 hyperlink==18.0.0
